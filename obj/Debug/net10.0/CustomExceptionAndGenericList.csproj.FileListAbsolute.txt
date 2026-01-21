@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/bin/Debug/net10.0/CustomExceptionAndGenericList
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/bin/Debug/net10.0/CustomExceptionAndGenericList.deps.json
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/bin/Debug/net10.0/CustomExceptionAndGenericList.runtimeconfig.json
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/bin/Debug/net10.0/CustomExceptionAndGenericList.dll
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/bin/Debug/net10.0/CustomExceptionAndGenericList.pdb
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.AssemblyInfo.cs
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.dll
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/refint/CustomExceptionAndGenericList.dll
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.pdb
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/CustomExceptionAndGenericList.genruntimeconfig.cache
+/Users/macbook/RiderProjects/Task_10_1/CustomExceptionAndGenericList/obj/Debug/net10.0/ref/CustomExceptionAndGenericList.dll
