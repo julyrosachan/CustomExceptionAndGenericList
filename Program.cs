@@ -7,7 +7,7 @@ try
     {
         Name = "july",
         Surname = "test",
-        Age = 2
+        Age = -2
     };
 }
 catch (Exception ex)
